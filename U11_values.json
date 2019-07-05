@@ -1,0 +1,36 @@
+{
+  "L0" : {  "nominal_value"           :   1e-6,
+            "tolerance"               :   0.2,
+            "temperature_coefficient" :   0,
+            "series_resistance"       :   0.1},
+
+  "C0" : {  "nominal_value"           :   530e-6,
+            "tolerance"               :   0.2,
+            "temperature_coefficient" :   0,
+            "series_resistance"       :   0},
+
+  "C4" : {  "nominal_value"           :   2.2e-9,
+            "temperature_coefficient" :   0,
+            "tolerance"               :   0.1},
+
+  "C2" : {  "nominal_value"           :   68e-12,
+            "temperature_coefficient" :   0,
+            "tolerance"               :   0.1},
+
+  "C3" : {  "nominal_value"           :   5.6e-9,
+            "temperature_coefficient" :   0,
+            "tolerance"               :   0.1},
+
+  "R3" : {  "nominal_value"           :   8.06,
+            "temperature_coefficient" :   0,
+            "tolerance"               :   0.01},
+
+  "R4" : {  "nominal_value"           :   51.1,
+            "temperature_coefficient" :   0,
+            "tolerance"               :   0.01},
+
+  "R5" : {  "nominal_value"           :   10.2e3,
+            "temperature_coefficient" :   0,
+            "tolerance"               :   0.01}
+}
+
